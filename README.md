@@ -28,11 +28,11 @@ I'm a Front-End Developer building my version of the digital world one step at a
 ---
 
 # 📊 GitHub Stats:
-![lexakozz's Stats](https://github-readme-stats.vercel.app/api?username=lexakozz&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br/>
-![lexakozz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lexakozz&theme=dracula&hide_border=true)<br/>
-![lexakozz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lexakozz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![achilleasmakris's Stats](https://github-readme-stats.vercel.app/api?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br/>
+![achilleasmakris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&hide_border=true)<br/>
+![achilleasmakris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lexakozz&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
