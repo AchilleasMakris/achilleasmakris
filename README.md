@@ -17,7 +17,6 @@ I'm a Front-End Developer building my version of the digital world one step at a
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://png2.cleanpng.com/sh/87f21db92d3fb5f48bd18e7f579ca34f/L0KzQYm3VMI4N6N4j5H0aYP2gLBuTfdqfJl6ep9sb33zhcXskr1qa5Dzi591b3fyPYbohcM2QWc6SaMENEm2PoG5VsEyOGo6Sac7NEi3SIqCV8A4Ol91htk=/kisspng-github-computer-icons-logo-5ae35965119493.026110951524848997072.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
