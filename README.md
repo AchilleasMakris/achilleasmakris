@@ -1,15 +1,14 @@
-#🧙🏻‍♂️ Achilleas Makris
+# 🧙🏻‍♂️ Achilleas Makris
 
 **`Digital Wizard (Developer / Creator)`**
 
 I'm a Front-End Developer building my version of the digital world one step at a time. I love learning new things, achieve goals and get outside of my comfort zone. Currently im working ona project of Youtube shorts.
-   
-## 🌐 Socials:
+#   
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lex_98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/axilleas.makris/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achilleas-makris-b550b22b5/) 
 ---
 
 ### 🧰 Languages and Tools
-
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
