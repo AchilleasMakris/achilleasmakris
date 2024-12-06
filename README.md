@@ -45,6 +45,8 @@
   <img alt="achilleasmakris's Top Languages" src="https://github-readme-stats-phi-six-68.vercel.app/api/top-langs/?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
