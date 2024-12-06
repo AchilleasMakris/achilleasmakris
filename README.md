@@ -45,17 +45,7 @@
   <img alt="achilleasmakris's Top Languages" src="https://github-readme-stats-phi-six-68.vercel.app/api/top-langs/?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 05 December 2024 - To: 05 December 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![AchilleasMakris Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
