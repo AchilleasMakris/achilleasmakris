@@ -35,18 +35,18 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img alt="achilleasmakris's Stats" src="https://github-readme-stats-phi-six-68.vercel.app/api?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-</p>
-<p align="left">
-  <img alt="achilleasmakris's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&hide_border=true" />
-</p>
-<p align="left">
-  <img alt="achilleasmakris's Top Languages" src="https://github-readme-stats-phi-six-68.vercel.app/api/top-langs/?username=achilleasmakris&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-</p>
 
+<a href="https://github.com/achilleasmakris">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=achilleasmakris&theme=dracula" />
+</a>
+<a href="https://github.com/achilleasmakris">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilleasmakris&layout=compact&theme=dracula&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/achilleasmakris">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&card_width=783" />
+</a>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&layout=compact&theme=dracula&link=https://www.github.com/achilleasmakris/)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
