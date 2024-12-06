@@ -3,8 +3,8 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
-### - 🔭 I’m currently working on [Greek Pseudocode Highlighter](https://github.com/AchilleasMakris/vscode-pseudocode-extension)
-
+### - 🔭 I’m currently working on  
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/GreekPseudoCode/vscode-pseudocode-extension&style=horizontal)](https://github.com/GreekPseudoCode/vscode-pseudocode-extension)
 ### - 🌱 I’m currently learning **C Language**
 
 ### - 📫 You can reach me at **lexlarisa@hotmail.com**
@@ -51,6 +51,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style)](https://bookmark.style)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
