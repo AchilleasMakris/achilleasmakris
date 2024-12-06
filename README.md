@@ -51,7 +51,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style)](https://bookmark.style)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
