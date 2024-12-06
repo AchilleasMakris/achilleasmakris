@@ -34,7 +34,7 @@
 ![snake gif](https://github.com/Achilleasmakris/achilleasmakris/blob/output/github-snake-dark.svg)
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <a href="https://github.com/achilleasmakris">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=achilleasmakris&theme=dracula" />
