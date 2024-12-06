@@ -48,6 +48,9 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&layout=compact&theme=dracula&link=https://www.github.com/achilleasmakris/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achilleasmakris&icon=0&color=11)](https://visitcount.itsvg.in)
