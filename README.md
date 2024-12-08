@@ -45,8 +45,10 @@
 <a href="https://github.com/achilleasmakris">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&card_width=783" />
 </a>
+<a href="https://github.com/achilleasmakris">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&theme=dracula&custom_title=Time%20Spend%20(Last%20%20Week)" />
+</a>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
