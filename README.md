@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F76B92&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏼;+I'm+Achilleas+Makris!;" />
 </h1>
-<h3 align="center">A passionate frontend developer from Greece</h3>
+<h3 align="center">A passionate Developer from Greece</h3>
 
 ### - 🔭 I’m currently working on  
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/GreekPseudoCode/vscode-pseudocode-extension&style=horizontal)](https://github.com/GreekPseudoCode/vscode-pseudocode-extension)
