@@ -32,22 +32,16 @@
 </p>
 
 ![snake gif](https://github.com/Achilleasmakris/achilleasmakris/blob/output/github-snake-dark.svg)
----
 
 ## 📊 GitHub Stats:
 
-<a href="https://github.com/achilleasmakris">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=achilleasmakris&theme=dracula" />
-</a>
-<a href="https://github.com/achilleasmakris">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilleasmakris&layout=compact&theme=dracula&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/achilleasmakris">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&card_width=783" />
-</a>
-<a href="https://github.com/achilleasmakris">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&theme=dracula&langs_count=5&custom_title=Time%20Spend%20(Last%20%20Week)" />
-</a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=achilleasmakris&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=achilleasmakris&theme=dracula&background=FFFFFF00&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasmakris&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=10">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=achilleasmakris&theme=dracula&bg_color=00000000&hide_border=true&langs_count=5&custom_title=Time%20Spend%20(Last%20%20Week)">
+  <br>
+</p>
 
 
 <!--START_SECTION:waka-->
