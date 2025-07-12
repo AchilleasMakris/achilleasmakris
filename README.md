@@ -5,7 +5,7 @@
 
 ### - 🔭 I’m currently working on  
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/GreekPseudoCode/vscode-pseudocode-extension&style=horizontal)](https://github.com/GreekPseudoCode/vscode-pseudocode-extension)
-### - 🌱 I’m currently learning **C Language**
+### - 🌱 I’m currently learning **React Native and Expo**
 
 ### - 📫 You can reach me at **lexlarisa@hotmail.com**
 
