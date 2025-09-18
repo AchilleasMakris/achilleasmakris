@@ -18,7 +18,7 @@
 </p>
 
 ### Languages and Tools Used so far:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bash,c,py,docker,firebase,git,githubactions,sqlite,supabase,sentry,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bash,c,py,docker,git,githubactions,sqlite,supabase,firebase,sentry,vite)](https://skillicons.dev)
 
 ![snake gif](https://github.com/Achilleasmakris/achilleasmakris/blob/output/github-snake-dark.svg)
 
