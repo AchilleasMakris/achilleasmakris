@@ -17,19 +17,8 @@
 <a href="https://linkedin.com/in/achilleas-makris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achilleas-makris" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
-<p align="left" style="display: flex; gap: 15px;">
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Bash" width="30px" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" />
-  <img alt="Vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img alt="WordPress" width="30px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" />
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img alt="C" width="30px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-</p>
+### Languages and Tools Used so far:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bash,c,py,docker,firebase,git,githubactions,sqlite,supabase,sentry,vite)](https://skillicons.dev)
 
 ![snake gif](https://github.com/Achilleasmakris/achilleasmakris/blob/output/github-snake-dark.svg)
 
