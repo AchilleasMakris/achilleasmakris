@@ -3,14 +3,13 @@
 </h1>
 <h3 align="center">A passionate Developer from Greece</h3>
 
-### - 🔭 I’m currently working on  
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/GreekPseudoCode/vscode-pseudocode-extension&style=horizontal)](https://github.com/GreekPseudoCode/vscode-pseudocode-extension)
+### - 🔭 I’m currently working on UniTracker App
+[![Bookmark Style Card](https://i.imgur.com/an9OziT.png)](https://www.unitracker.store/)
 ### - 🌱 I’m currently learning **React Native and Expo**
 
 ### - 📫 You can reach me at **lexlarisa@protonmail.com**
 
 ---
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
