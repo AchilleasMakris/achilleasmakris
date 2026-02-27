@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Developer from Greece</h3>
 
 ### - 🔭 I’m currently working on [Study Saga](https://study-saga.com)
-[![Bookmark Style Card](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
+[![Study Saga](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
 ### - 🌱 I’m currently learning **React, Supabase, DevOps and Automations.**
 
 ### - 📫 You can reach me at **lexlarisa@protonmail.com**
