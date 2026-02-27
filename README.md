@@ -3,8 +3,8 @@
 </h1>
 <h3 align="center">A passionate Developer from Greece</h3>
 
-### - 🔭 I’m currently working on UniTracker App
-[![Bookmark Style Card](https://i.imgur.com/an9OziT.png)](https://dub.sh/unitracker)
+### - 🔭 I’m currently working on [Study Saga](https://study-saga.com)
+[![Bookmark Style Card](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
 ### - 🌱 I’m currently learning **React Native and Expo**
 
 ### - 📫 You can reach me at **lexlarisa@protonmail.com**
